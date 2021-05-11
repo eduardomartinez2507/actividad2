@@ -1,0 +1,18 @@
+
+body{
+    overflow: hidden;
+    font-family: sans-serif;
+    font-weight: 300;
+    color: black;
+}
+
+#mySidebar{
+
+    color: lightcoral;
+
+}
+
+#esconder{
+    text-align-last: right;
+}
+
